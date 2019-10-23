@@ -1,0 +1,8 @@
+body {
+  margin: 0;
+}
+
+.hero {
+  width: 100px;
+  background-color: rgb(250, 243, 184);
+}

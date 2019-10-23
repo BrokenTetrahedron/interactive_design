@@ -1,0 +1,62 @@
+body {
+  margin: 0;
+}
+
+.sidenav {
+  height: 100%;
+  width: 100px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  background-color: #111;
+  overflow-x: hidden;
+  padding-top: 40px;
+  transition: 0.5s;
+  text-align: center;
+  font-size: 40px;
+}
+
+.sidenav i {
+  color: white
+}
+
+.socialmediaicons {
+  width: 100px;
+  position: fixed;
+  align-items: center;
+  bottom: 50px;
+  font-size: 25px;
+}
+
+.hero {
+  width: 100%;
+  height: 100px;
+  background-color: rgb(250, 243, 184);
+}
+
+.spotifycontainer {
+  background-color: black;
+  margin-left: 100px;
+}
+
+.setlist {
+  width: 100%;
+  height: 100px;
+  background-color: rgb(250, 243, 184);
+}
+
+.news {
+  width: 100%;
+  height: 100px;
+  background-color: rgb(250, 243, 184);
+}
+
+.tickets {
+  width: 100%;
+  height: 100px;
+  background-color: rgb(250, 243, 184);
+}
+
+.spotifyplayer {
+  align-items: center;
+}
